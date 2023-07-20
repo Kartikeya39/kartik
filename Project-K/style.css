@@ -1,0 +1,101 @@
+.bannerBgImage {
+    height: 100vh;
+    background: url("Images/bannerImage.jpeg");
+    width: 500;
+    background-size: cover;
+    position : relative;
+}
+
+.bannerText {
+    text-align: left;
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+.bannerTitle {
+    font-size: 4rem;
+}
+.bannerDesc {
+    font-size: 2rem;
+    text-indent: 350px;
+}
+
+d{
+  text-indent: 50px
+}
+
+.card{
+    cursor: pointer;
+}
+.card:hover {
+    background-color: rgb(218, 222, 225);
+    border: 2px solid gray;
+    transform: translateY(-10px);
+}
+
+.xyz{
+  width: 634px;
+  height: 300px;
+}
+.abcd{
+  justify-content: center;
+  width: 200px;;
+  height: 120px;
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+}
+
+
+/* footer styling */
+footer {
+    background-color: #808080;
+    text-align: center;
+}
+/* social media icons styling */
+.social-icons {
+  font-size: 36px;
+  cursor: pointer;
+}
+.fa-instagram:hover{
+color: rgb(217, 46, 103);
+}
+.fa-whatsapp:hover{
+color: #28e521;
+}
+.fa-linkedin:hover{
+color: rgb(8, 8, 168);
+}
+.fab {
+  color: #000000;
+}
+/* footer Ends */
+h5{
+  color: #000000;
+}
+h1{
+  font-family:Copperplate Gothic;
+}
+x{
+  color: red;
+  font-size: larger;
+}
+.fgh{
+  font-size:large;
+}
+
+.nav-link{
+  color: aqua;
+}
+a{
+  text-decoration: none;
+}
+.ola{
+  color: white;
+  align-content: center;
+  font-size:xx-large ;
+}
